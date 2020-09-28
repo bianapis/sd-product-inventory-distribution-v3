@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "provisioningServiceType" : "provisioningServiceType",
+  "provisioningServiceWorkProduct" : "provisioningServiceWorkProduct",
+  "provisioningPreconditions" : "provisioningPreconditions",
+  "provisioningInitiateActionRecord" : {},
+  "provisioningInstanceStatus" : "provisioningInstanceStatus",
+  "provisioningWorkSchedule" : "provisioningWorkSchedule",
+  "provisioningInitiateActionReference" : "PIAR793566",
+  "provisioningBusinessUnitEmployeeReference" : "PBUR702283",
+  "provisioningServiceName" : "provisioningServiceName",
+  "provisioningServiceDescription" : "provisioningServiceDescription",
+  "provisioningPostconditions" : "provisioningPostconditions",
+  "provisioningInstanceReference" : "PIR776853",
+  "provisioningServiceInputsandOuputs" : "provisioningServiceInputsandOuputs"
+}

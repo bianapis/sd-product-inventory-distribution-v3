@@ -1,0 +1,27 @@
+{
+  "distributionRetrieveActionTaskReference" : "DRATR748978",
+  "businessService" : "businessService",
+  "distributionRetrieveActionTaskRecord" : {},
+  "distributionServiceType" : "distributionServiceType",
+  "distributionServiceInputsandOuputs" : "distributionServiceInputsandOuputs",
+  "distributionWorkSchedule" : "distributionWorkSchedule",
+  "distributionPostconditions" : "distributionPostconditions",
+  "distributionServiceDescription" : "distributionServiceDescription",
+  "distributionRetrieveActionResponse" : "distributionRetrieveActionResponse",
+  "distributionBusinessUnitEmployeeReference" : "DBUR713787",
+  "distributionServiceWorkProduct" : "distributionServiceWorkProduct",
+  "distributionServiceName" : "distributionServiceName",
+  "distributionInstanceReport" : {
+    "distributionInstanceReport" : {},
+    "distributionInstanceReportRecord" : {},
+    "distributionInstanceReportType" : "distributionInstanceReportType",
+    "distributionInstanceReportParameters" : "distributionInstanceReportParameters"
+  },
+  "distributionPreconditions" : "distributionPreconditions",
+  "distributionInstanceAnalysis" : {
+    "distributionInstanceAnalysisReportType" : "distributionInstanceAnalysisReportType",
+    "distributionInstanceAnalysisParameters" : "distributionInstanceAnalysisParameters",
+    "distributionInstanceAnalysisReport" : {},
+    "distributionInstanceAnalysisRecord" : {}
+  }
+}

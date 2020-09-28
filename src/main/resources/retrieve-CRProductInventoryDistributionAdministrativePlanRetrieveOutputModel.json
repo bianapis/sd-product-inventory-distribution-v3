@@ -1,0 +1,19 @@
+{
+  "productInventoryDistributionAdministrativePlanReference" : "PIDAR747030",
+  "productInventoryDistributionAdministrativePlanAssignment" : "productInventoryDistributionAdministrativePlanAssignment",
+  "productInventoryDistributionAdministrativePlanRetrieveActionTaskReference" : "PIDARATR707701",
+  "productInventoryDistributionAdministrativePlanRetrieveActionTaskRecord" : {},
+  "productInventoryDistributionAdministrativePlanInstanceReportRecord" : {
+    "productInventoryDistributionAdministrativePlanInstanceReport" : {},
+    "productInventoryDistributionAdministrativePlanInstanceReportType" : "productInventoryDistributionAdministrativePlanInstanceReportType",
+    "productInventoryDistributionAdministrativePlanInstanceReportData" : "productInventoryDistributionAdministrativePlanInstanceReportData"
+  },
+  "productInventoryDistributionAdministrativePlanInstanceAnalysis" : {
+    "productInventoryDistributionAdministrativePlanInstanceAnalysisData" : "productInventoryDistributionAdministrativePlanInstanceAnalysisData",
+    "productInventoryDistributionAdministrativePlanInstanceAnalysisReportType" : "productInventoryDistributionAdministrativePlanInstanceAnalysisReportType",
+    "productInventoryDistributionAdministrativePlanInstanceAnalysisReport" : {}
+  },
+  "productInventoryDistributionAdministrativePlanPlan" : "productInventoryDistributionAdministrativePlanPlan",
+  "productInventoryDistributionAdministrativePlanRetrieveActionResponse" : "productInventoryDistributionAdministrativePlanRetrieveActionResponse",
+  "productInventoryDistributionAdministrativePlanBudgetType" : "productInventoryDistributionAdministrativePlanBudgetType"
+}

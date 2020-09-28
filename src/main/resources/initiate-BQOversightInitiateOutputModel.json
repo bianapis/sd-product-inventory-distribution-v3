@@ -1,0 +1,16 @@
+{
+  "oversightBusinessUnitEmployeeReference" : "OBUR726836",
+  "oversightPostconditions" : "oversightPostconditions",
+  "oversightAdministrativeOversightServiceType" : "oversightAdministrativeOversightServiceType",
+  "oversightWorkSchedule" : "oversightWorkSchedule",
+  "oversightInitiateActionRecord" : {},
+  "oversightAdministrativeOversightServiceWorkProduct" : "oversightAdministrativeOversightServiceWorkProduct",
+  "oversightAdministrativeOversightServiceInputsandOuputs" : "oversightAdministrativeOversightServiceInputsandOuputs",
+  "oversightAdministrativeOversightServiceName" : "oversightAdministrativeOversightServiceName",
+  "oversightInstanceStatus" : "oversightInstanceStatus",
+  "oversightPreconditions" : "oversightPreconditions",
+  "oversightAdministrativeOversightServiceDescription" : "oversightAdministrativeOversightServiceDescription",
+  "oversightInstanceReference" : "OIR799523",
+  "administrativeOversight" : "administrativeOversight",
+  "oversightInitiateActionReference" : "OIAR790051"
+}

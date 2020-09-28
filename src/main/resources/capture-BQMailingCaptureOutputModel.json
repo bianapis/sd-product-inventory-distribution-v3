@@ -1,0 +1,14 @@
+{
+  "mailingWorkSchedule" : "mailingWorkSchedule",
+  "mailingPostconditions" : "mailingPostconditions",
+  "mailingCaptureActionTaskReference" : "MCATR778772",
+  "mailingMailingServiceWorkProduct" : "mailingMailingServiceWorkProduct",
+  "mailingCaptureRecordReference" : "MCRR738140",
+  "mailingMailingServiceType" : "mailingMailingServiceType",
+  "mailingCaptureActionTaskRecord" : {},
+  "mailingPreconditions" : "mailingPreconditions",
+  "mailingBusinessUnitEmployeeReference" : "MBUR778029",
+  "mailingMailingServiceDescription" : "mailingMailingServiceDescription",
+  "mailingMailingServiceInputsandOuputs" : "mailingMailingServiceInputsandOuputs",
+  "captureResponseRecord" : {}
+}

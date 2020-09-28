@@ -1,0 +1,14 @@
+{
+  "mailingInstanceStatus" : "mailingInstanceStatus",
+  "mailingWorkSchedule" : "mailingWorkSchedule",
+  "mailingPostconditions" : "mailingPostconditions",
+  "mailingInstanceReference" : "MIR788502",
+  "mailingInitiateActionReference" : "MIAR758196",
+  "mailingMailingServiceWorkProduct" : "mailingMailingServiceWorkProduct",
+  "mailingMailingServiceType" : "mailingMailingServiceType",
+  "mailingPreconditions" : "mailingPreconditions",
+  "mailingBusinessUnitEmployeeReference" : "MBUR743699",
+  "mailingMailingServiceDescription" : "mailingMailingServiceDescription",
+  "mailingInitiateActionRecord" : {},
+  "mailingMailingServiceInputsandOuputs" : "mailingMailingServiceInputsandOuputs"
+}

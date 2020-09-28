@@ -1,0 +1,9 @@
+{
+  "productInventoryDistributionAdministrativePlanAssignment" : "productInventoryDistributionAdministrativePlanAssignment",
+  "productInventoryDistributionAdministrativePlanPlan" : "productInventoryDistributionAdministrativePlanPlan",
+  "productInventoryDistributionAdministrativePlanInitiateActionRecord" : {},
+  "productInventoryDistributionAdministrativePlanBudgetType" : "productInventoryDistributionAdministrativePlanBudgetType",
+  "productInventoryDistributionAdministrativePlanInstanceStatus" : "productInventoryDistributionAdministrativePlanInstanceStatus",
+  "productInventoryDistributionAdministrativePlanInstanceReference" : "PIDAIR788183",
+  "productInventoryDistributionAdministrativePlanInitiateActionReference" : "PIDAIAR781845"
+}

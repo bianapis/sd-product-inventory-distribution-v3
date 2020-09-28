@@ -1,0 +1,16 @@
+{
+  "oversightCaptureRecordReference" : "OCRR711962",
+  "oversightBusinessUnitEmployeeReference" : "OBUR735076",
+  "oversightPostconditions" : "oversightPostconditions",
+  "oversightAdministrativeOversightServiceType" : "oversightAdministrativeOversightServiceType",
+  "oversightWorkSchedule" : "oversightWorkSchedule",
+  "oversightAdministrativeOversightServiceWorkProduct" : "oversightAdministrativeOversightServiceWorkProduct",
+  "oversightAdministrativeOversightServiceInputsandOuputs" : "oversightAdministrativeOversightServiceInputsandOuputs",
+  "oversightCaptureActionTaskReference" : "OCATR755340",
+  "oversightAdministrativeOversightServiceName" : "oversightAdministrativeOversightServiceName",
+  "oversightPreconditions" : "oversightPreconditions",
+  "oversightAdministrativeOversightServiceDescription" : "oversightAdministrativeOversightServiceDescription",
+  "administrativeOversight" : "administrativeOversight",
+  "captureResponseRecord" : {},
+  "oversightCaptureActionTaskRecord" : {}
+}

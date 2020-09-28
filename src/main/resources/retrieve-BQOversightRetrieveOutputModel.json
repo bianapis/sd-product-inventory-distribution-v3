@@ -1,0 +1,27 @@
+{
+  "oversightRetrieveActionTaskRecord" : {},
+  "oversightRetrieveActionResponse" : "oversightRetrieveActionResponse",
+  "oversightRetrieveActionTaskReference" : "ORATR751398",
+  "oversightBusinessUnitEmployeeReference" : "OBUR728711",
+  "oversightPostconditions" : "oversightPostconditions",
+  "oversightAdministrativeOversightServiceType" : "oversightAdministrativeOversightServiceType",
+  "oversightWorkSchedule" : "oversightWorkSchedule",
+  "oversightAdministrativeOversightServiceWorkProduct" : "oversightAdministrativeOversightServiceWorkProduct",
+  "oversightAdministrativeOversightServiceInputsandOuputs" : "oversightAdministrativeOversightServiceInputsandOuputs",
+  "oversightInstanceReport" : {
+    "oversightInstanceReportRecord" : {},
+    "oversightInstanceReportType" : "oversightInstanceReportType",
+    "oversightInstanceReport" : {},
+    "oversightInstanceReportParameters" : "oversightInstanceReportParameters"
+  },
+  "oversightInstanceAnalysis" : {
+    "oversightInstanceAnalysisReport" : {},
+    "oversightInstanceAnalysisRecord" : {},
+    "oversightInstanceAnalysisReportType" : "oversightInstanceAnalysisReportType",
+    "oversightInstanceAnalysisParameters" : "oversightInstanceAnalysisParameters"
+  },
+  "oversightAdministrativeOversightServiceName" : "oversightAdministrativeOversightServiceName",
+  "oversightPreconditions" : "oversightPreconditions",
+  "oversightAdministrativeOversightServiceDescription" : "oversightAdministrativeOversightServiceDescription",
+  "administrativeOversight" : "administrativeOversight"
+}

@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "provisioningServiceType" : "provisioningServiceType",
+  "provisioningServiceWorkProduct" : "provisioningServiceWorkProduct",
+  "provisioningPreconditions" : "provisioningPreconditions",
+  "provisioningWorkSchedule" : "provisioningWorkSchedule",
+  "provisioningCaptureActionTaskRecord" : {},
+  "provisioningBusinessUnitEmployeeReference" : "PBUR763503",
+  "provisioningServiceName" : "provisioningServiceName",
+  "provisioningServiceDescription" : "provisioningServiceDescription",
+  "provisioningPostconditions" : "provisioningPostconditions",
+  "provisioningCaptureActionTaskReference" : "PCATR789005",
+  "provisioningCaptureRecordReference" : "PCRR747755",
+  "captureResponseRecord" : {},
+  "provisioningServiceInputsandOuputs" : "provisioningServiceInputsandOuputs"
+}

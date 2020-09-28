@@ -1,0 +1,25 @@
+{
+  "mailingInstanceAnalysis" : {
+    "mailingInstanceAnalysisReportType" : "mailingInstanceAnalysisReportType",
+    "mailingInstanceAnalysisParameters" : "mailingInstanceAnalysisParameters",
+    "mailingInstanceAnalysisRecord" : {},
+    "mailingInstanceAnalysisReport" : {}
+  },
+  "mailingRetrieveActionTaskRecord" : {},
+  "mailingMailingServiceWorkProduct" : "mailingMailingServiceWorkProduct",
+  "mailingRetrieveActionResponse" : "mailingRetrieveActionResponse",
+  "mailingInstanceReport" : {
+    "mailingInstanceReportType" : "mailingInstanceReportType",
+    "mailingInstanceReportRecord" : {},
+    "mailingInstanceReport" : {},
+    "mailingInstanceReportParameters" : "mailingInstanceReportParameters"
+  },
+  "mailingPreconditions" : "mailingPreconditions",
+  "mailingMailingServiceInputsandOuputs" : "mailingMailingServiceInputsandOuputs",
+  "mailingWorkSchedule" : "mailingWorkSchedule",
+  "mailingPostconditions" : "mailingPostconditions",
+  "mailingMailingServiceType" : "mailingMailingServiceType",
+  "mailingBusinessUnitEmployeeReference" : "MBUR793289",
+  "mailingMailingServiceDescription" : "mailingMailingServiceDescription",
+  "mailingRetrieveActionTaskReference" : "MRATR706921"
+}

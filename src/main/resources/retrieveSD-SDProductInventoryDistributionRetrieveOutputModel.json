@@ -1,0 +1,39 @@
+{
+  "productInventoryDistributionRetrieveActionTaskReference" : "SRATR795161",
+  "productInventoryDistributionRetrieveActionTaskRecord" : {},
+  "productInventoryDistributionOfferedService" : {
+    "productInventoryDistributionServiceRecord" : {
+      "productInventoryDistributionServiceType" : "productInventoryDistributionServiceType",
+      "productInventoryDistributionServicePoliciesandGuidelines" : {
+        "productInventoryDistributionServiceIntendedUses" : "productInventoryDistributionServiceIntendedUses",
+        "productInventoryDistributionServicePricingandTerms" : "productInventoryDistributionServicePricingandTerms",
+        "productInventoryDistributionServiceEligibility" : "productInventoryDistributionServiceEligibility"
+      },
+      "productInventoryDistributionServiceVersion" : "productInventoryDistributionServiceVersion",
+      "productInventoryDistributionServiceSchedule" : "productInventoryDistributionServiceSchedule",
+      "productInventoryDistributionServiceDescription" : "productInventoryDistributionServiceDescription"
+    },
+    "productInventoryDistributionServiceReference" : "776158"
+  },
+  "productInventoryDistributionRetrieveActionRecord" : {
+    "productInventoryDistributionPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "productInventoryDistributionActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "productInventoryDistributionRetrieveActionResponse" : "productInventoryDistributionRetrieveActionResponse"
+}

@@ -1,0 +1,11 @@
+{
+  "productInventoryDistributionAdministrativePlanAssignment" : "productInventoryDistributionAdministrativePlanAssignment",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "productInventoryDistributionAdministrativePlanPlan" : "productInventoryDistributionAdministrativePlanPlan",
+  "productInventoryDistributionAdministrativePlanBudgetType" : "productInventoryDistributionAdministrativePlanBudgetType",
+  "productInventoryDistributionAdministrativePlanGrantActionTaskRecord" : {},
+  "grantRequestRecordReference" : "GRRR706318",
+  "productInventoryDistributionAdministrativePlanGrantActionTaskReference" : "PIDAGATR752294"
+}

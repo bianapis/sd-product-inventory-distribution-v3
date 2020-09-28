@@ -1,0 +1,13 @@
+{
+  "mailingWorkSchedule" : "mailingWorkSchedule",
+  "mailingPostconditions" : "mailingPostconditions",
+  "mailingMailingServiceWorkProduct" : "mailingMailingServiceWorkProduct",
+  "mailingMailingServiceType" : "mailingMailingServiceType",
+  "updateResponseRecord" : {},
+  "mailingPreconditions" : "mailingPreconditions",
+  "mailingBusinessUnitEmployeeReference" : "MBUR782856",
+  "mailingMailingServiceDescription" : "mailingMailingServiceDescription",
+  "mailingUpdateActionTaskReference" : "MUATR760152",
+  "mailingMailingServiceInputsandOuputs" : "mailingMailingServiceInputsandOuputs",
+  "mailingUpdateActionTaskRecord" : {}
+}

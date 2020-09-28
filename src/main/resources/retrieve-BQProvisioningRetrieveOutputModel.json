@@ -1,0 +1,27 @@
+{
+  "businessService" : "businessService",
+  "provisioningServiceType" : "provisioningServiceType",
+  "provisioningServiceWorkProduct" : "provisioningServiceWorkProduct",
+  "provisioningInstanceAnalysis" : {
+    "provisioningInstanceAnalysisParameters" : "provisioningInstanceAnalysisParameters",
+    "provisioningInstanceAnalysisRecord" : {},
+    "provisioningInstanceAnalysisReport" : {},
+    "provisioningInstanceAnalysisReportType" : "provisioningInstanceAnalysisReportType"
+  },
+  "provisioningPreconditions" : "provisioningPreconditions",
+  "provisioningWorkSchedule" : "provisioningWorkSchedule",
+  "provisioningInstanceReport" : {
+    "provisioningInstanceReportType" : "provisioningInstanceReportType",
+    "provisioningInstanceReport" : {},
+    "provisioningInstanceReportParameters" : "provisioningInstanceReportParameters",
+    "provisioningInstanceReportRecord" : {}
+  },
+  "provisioningRetrieveActionTaskRecord" : {},
+  "provisioningBusinessUnitEmployeeReference" : "PBUR792494",
+  "provisioningRetrieveActionTaskReference" : "PRATR726894",
+  "provisioningServiceName" : "provisioningServiceName",
+  "provisioningServiceDescription" : "provisioningServiceDescription",
+  "provisioningPostconditions" : "provisioningPostconditions",
+  "provisioningRetrieveActionResponse" : "provisioningRetrieveActionResponse",
+  "provisioningServiceInputsandOuputs" : "provisioningServiceInputsandOuputs"
+}

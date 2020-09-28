@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "distributionInitiateActionRecord" : {},
+  "distributionInstanceReference" : "DIR705758",
+  "distributionServiceType" : "distributionServiceType",
+  "distributionServiceInputsandOuputs" : "distributionServiceInputsandOuputs",
+  "distributionWorkSchedule" : "distributionWorkSchedule",
+  "distributionPostconditions" : "distributionPostconditions",
+  "distributionServiceDescription" : "distributionServiceDescription",
+  "distributionBusinessUnitEmployeeReference" : "DBUR715792",
+  "distributionServiceWorkProduct" : "distributionServiceWorkProduct",
+  "distributionServiceName" : "distributionServiceName",
+  "distributionInstanceStatus" : "distributionInstanceStatus",
+  "distributionPreconditions" : "distributionPreconditions",
+  "distributionInitiateActionReference" : "DIAR706961"
+}

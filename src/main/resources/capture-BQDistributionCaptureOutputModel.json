@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "distributionCaptureActionTaskRecord" : {},
+  "distributionCaptureActionTaskReference" : "DCATR746562",
+  "distributionServiceType" : "distributionServiceType",
+  "distributionServiceInputsandOuputs" : "distributionServiceInputsandOuputs",
+  "distributionWorkSchedule" : "distributionWorkSchedule",
+  "distributionPostconditions" : "distributionPostconditions",
+  "distributionServiceDescription" : "distributionServiceDescription",
+  "distributionCaptureRecordReference" : "DCRR769342",
+  "distributionBusinessUnitEmployeeReference" : "DBUR706851",
+  "distributionServiceWorkProduct" : "distributionServiceWorkProduct",
+  "distributionServiceName" : "distributionServiceName",
+  "distributionPreconditions" : "distributionPreconditions",
+  "captureResponseRecord" : {}
+}

@@ -1,0 +1,24 @@
+{
+  "productInventoryDistributionServicingSessionReference" : "SSSR783215",
+  "productInventoryDistributionServicingSessionStatus" : "productInventoryDistributionServicingSessionStatus",
+  "productInventoryDistributionActivationActionTaskReference" : "SAATR758836",
+  "productInventoryDistributionActivationActionTaskRecord" : {},
+  "productInventoryDistributionServiceConfigurationRecord" : {
+    "productInventoryDistributionServiceConfigurationSetup" : {
+      "productInventoryDistributionServiceConfigurationParameter" : "productInventoryDistributionServiceConfigurationParameter"
+    },
+    "productInventoryDistributionServiceAgreement" : {
+      "productInventoryDistributionServiceAgreementTermsandConditions" : "productInventoryDistributionServiceAgreementTermsandConditions",
+      "productInventoryDistributionServiceUserReference" : "767210",
+      "productInventoryDistributionServiceAgreementReference" : "791202"
+    },
+    "productInventoryDistributionServiceSubscription" : {
+      "productInventoryDistributionServiceSubscriberAccessProfile" : "productInventoryDistributionServiceSubscriberAccessProfile",
+      "productInventoryDistributionServiceSubscriberReference" : "769192"
+    },
+    "productInventoryDistributionServiceConfigurationSettingReference" : "700761",
+    "productInventoryDistributionServiceStatus" : "productInventoryDistributionServiceStatus",
+    "productInventoryDistributionServiceConfigurationSettingDescription" : "productInventoryDistributionServiceConfigurationSettingDescription"
+  },
+  "productInventoryDistributionServicingSessionRecord" : {}
+}
